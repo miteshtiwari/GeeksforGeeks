@@ -1,0 +1,1 @@
+In this create frequency HashMap of first array and then through iterating second array check if that element is present in hashmap or not , if yes then reduce it's frequency and if it become zero remove it from the map. if the element is not present in the map that means either it is duplicate or it is not in the subset.
